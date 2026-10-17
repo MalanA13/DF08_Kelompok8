@@ -1,0 +1,22 @@
+2026-10-17T10:15:56+07:00
+
+=== Python environment ===
+python=/data/Kuliah/Semester 5/Digital Forensik/Tubes/DF08_Kelompok8/.venv/bin/python
+Python 3.14.7
+pip 26.2.1 from /data/Kuliah/Semester 5/Digital Forensik/Tubes/DF08_Kelompok8/.venv/lib/python3.14/site-packages/pip (python 3.14)
+
+=== Packages ===
+Pillow 13.0.0
+NumPy 2.5.4
+pandas 3.0.6
+matplotlib 3.11.2
+
+=== zsteg ===
+/home/alan/.local/share/gem/ruby/3.4.0/bin/zsteg
+zsteg (0.2.14)
+
+=== Ruby ===
+ruby 3.4.10 (2026-06-30 revision 2b0b7728dc) +PRISM [x86_64-linux]
+
+=== OS ===
+Linux alankasa 7.2.6-arch2-1 #1 SMP PREEMPT_DYNAMIC Mon, 14 Sep 2026 22:41:30 +0000 x86_64 GNU/Linux
