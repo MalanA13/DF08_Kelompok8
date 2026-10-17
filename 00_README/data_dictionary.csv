@@ -1,0 +1,17 @@
+field_name,tipe_data,keterangan,contoh_nilai
+case_id,string,Kode unik format DF08-STEG-XXX-R1,DF08-STEG-001-R1
+source_id,string,Nama file source dari manifest ground truth,PNG_01.png
+file_type,string,Format file PNG/BMP/JPEG,PNG
+is_stego,int,1=stego image 0=clean image,1
+payload_ratio,string,Level payload low/medium/high/none,low
+transform,string,Transformasi resave/resize/convert/jpeg/none,none
+tool,string,Nama dan versi tool,zsteg 0.2.14
+detected,int,1=marker DF08_PAYLOAD_ ditemukan 0=tidak,1
+payload_extracted,int,1=extractor berhasil ekstrak payload valid 0=tidak,1
+payload_hash_match,int,1=SHA256 payload cocok manifest 0=tidak,1
+tp,int,True positive baris ini,1
+fp,int,False positive baris ini,0
+tn,int,True negative baris ini,0
+fn,int,False negative baris ini,0
+runtime_sec,float,Durasi proses dalam detik,2.34
+notes,string,Error/exception/observasi penting,ok
