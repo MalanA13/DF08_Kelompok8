@@ -22,3 +22,4 @@ __pycache__/
 !09_SCREENSHOTS/.gitkeep
 10_REPORT/*
 !10_REPORT/.gitkeep
+!10_REPORT/*.pdf

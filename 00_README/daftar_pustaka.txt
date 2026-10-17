@@ -1,0 +1,68 @@
+Rahman, S., Uddin, J., Khan, H. U., Hussain, H., Khan, A. A., & Zakarya, M. (2022). A novel
+steganography technique for digital images using the least significant bit
+substitution method. IEEE Access, 10, 124053–124075.
+https://doi.org/10.1109/ACCESS.2022.3224745
+
+Rahman, S., Uddin, J., Zakarya, M., Hussain, H., Khan, A. A., Khan, A. A., & Haleem, M.
+(2023). A comprehensive study of digital image steganographic techniques.
+IEEE Access, 11, 6770–6791.
+https://doi.org/10.1109/ACCESS.2023.3237393
+
+Rahman, S., Uddin, J., Hussain, H., Shah, S., Salam, A., Amin, F., de la Torre Díez, I., Ramírez
+Vargas, D. L., & Martínez Espinosa, J. C. (2025). A novel and efficient
+digital image steganography technique using least significant bit substitution.
+Scientific Reports, 15, 107. https://doi.org/10.1038/s41598-024-83147-3
+Banoori, S. Z., Khan, W., Rahman, S., Masood, F., Salam, A., Amin, F., de la Torre, I., Villar, M.
+G., Garay, H., & Choi, G. S. (2025). An improved hybrid image
+steganography method using AES algorithm. Scientific Reports, 15, 44515.
+https://doi.org/10.1038/s41598-025-28140-0
+
+Apau, R., Asante, M., Twum, F., Ben Hayfron-Acquah, J., & Peasah, K. O. (2024). Image
+steganography techniques for resisting statistical steganalysis attacks: A
+systematic literature review. PLOS ONE, 19(9), e0308807.
+https://doi.org/10.1371/journal.pone.0308807
+
+Shankar, D. D., & Azhakath, A. S. (2023). Random embedded calibrated statistical blind
+steganalysis using cross validated support vector machine and support vector
+machine with particle swarm optimization. Scientific Reports, 13, 2359.
+https://doi.org/10.1038/s41598-023-29453-8
+
+Rahman, S., Uddin, J., Hussain, H., Jan, S., Khan, I., Shabir, M., & Musa, S. (2023). Multi
+perspectives steganography algorithm for color images on multiple-formats.
+Sustainability, 15(5), 4252. https://doi.org/10.3390/su15054252
+
+Kuznetsov, O., Frontoni, E., Chernov, K., Kuznetsova, K., Shevchuk, R., & Karpinski, M. (2024).
+Enhancing steganography detection with AI: Fine-tuning a deep residual
+network for spread spectrum image steganography. Sensors, 24(23), 7815.
+https://doi.org/10.3390/s24237815
+
+Almhlbdi, A. M., Altowairqi, N. D., Alshutayri, A. O., & Qarout, R. K. (2025). Deep
+learning-based multi-class detection of LSB steganography in digital images.
+
+IEEE Access, 13, 191543–191553.
+https://doi.org/10.1109/ACCESS.2025.3628784
+
+Kombrink, M., van Lierop, S., Stolwijk, D., Worring, M., Vrijdag, D., & Geradts, Z. (2025).
+REVEAL: A large-scale comprehensive image dataset for steganalysis.
+Forensic Science International: Digital Investigation, 55, 302006.
+https://doi.org/10.1016/j.fsidi.2025.302006
+
+Alrusaini, O. A. (2025). Deep learning for steganalysis: Evaluating model robustness against
+image transformations. Frontiers in Artificial Intelligence, 8, 1532895.
+https://doi.org/10.3389/frai.2025.1532895
+
+Mahdavi, M., Samavi, Sh., Zaker, N., & Modarres-Hashemi, M. (2008). Steganalysis method for
+LSB replacement based on local gradient of image histogram. Iranian
+Journal of Electrical & Electronic Engineering, 4(3), 59–?.
+
+Rokhman, N., & Maharanti, J. (2011). Deteksi steganografi berbasis Least Significant Bit (LSB)
+dengan menggunakan analisis statistik. IJCCS (Indonesian Journal of
+Computing and Cybernetics Systems), 5(1).
+
+Kombrink, M. H., Geradts, Z. J. M. H., & Worring, M. (2024). Image steganography approaches
+and their detection strategies: A survey. ACM Computing Surveys, 57(2),
+Article 33. https://doi.org/10.1145/3694965
+
+Chhikara, S., & Kumar, R. (2020). An information theoretic image steganalysis for LSB
+steganography. Acta Cybernetica, 24, 593–612.
+https://doi.org/10.14232/actacyb.279174
